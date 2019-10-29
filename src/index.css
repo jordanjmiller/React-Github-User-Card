@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.parent{
+  background-color: slategrey;
+}
+.card{
+  display: flex;
+  background-color: silver;
+  border: 1px solid black;
+  width: 60%;
+  margin: 0 auto;
+}
+.userInfo{
+  padding-left: 30px;
+}
